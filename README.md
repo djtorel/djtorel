@@ -1,5 +1,5 @@
 <!-- markdownlint-disable MD033 -->
-# Hello 👋 <h2>I'm Dominic</h2>
+# Hello 👋 I'm Dominic
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 <h3> 💻 About Me </h3>
