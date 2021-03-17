@@ -2,7 +2,7 @@
 # Hello 👋 <h2>I'm Dominic</h2>
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-## 💻 About Me
+<h3> 💻 About Me </h3>
 
 - Always looking for opportunities to learn something new, grow personally and professionally, and meet new people.
 
