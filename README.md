@@ -3,7 +3,9 @@
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 ## 💻 About Me
+
 - Always looking for opportunities to learn something new, grow personally and professionally, and meet new people.
+
 - Love learning new languages, and especially fond of more functional style languages and strong static type systems.
 
 <h3> 🤝🏻 Connect with Me </h3>
