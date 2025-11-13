@@ -12,7 +12,6 @@
 <a href="https://www.domt.dev/"><img alt="Website" src="https://img.shields.io/badge/Site-domt.dev-black?style=for-the-badge&logo=firefox"></a>
 <a href="https://www.linkedin.com/in/dom-torr/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-dom--torr-blue?style=for-the-badge&logo=linkedin"></a>
 <a href="mailto:dom@domtorr.com"><img alt="Email" src="https://img.shields.io/badge/Email-dom%40domtorr.com-blue?style=for-the-badge&logo=gmail"></a>
-<a href="https://twitter.com/dom_torr"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-dom__torr-blue?style=for-the-badge&logo=twitter"></a>
 
 <br/><br/>
 
