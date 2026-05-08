@@ -12,9 +12,3 @@
 <a href="https://www.domt.dev/"><img alt="Website" src="https://img.shields.io/badge/Site-domt.dev-black?style=for-the-badge&logo=firefox"></a>
 <a href="https://www.linkedin.com/in/dom-torr/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-dom--torr-blue?style=for-the-badge&logo=linkedin"></a>
 <a href="mailto:dom@domtorr.com"><img alt="Email" src="https://img.shields.io/badge/Email-dom%40domtorr.com-blue?style=for-the-badge&logo=gmail"></a>
-
-<br/><br/>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=djtorel&show_icons=true&langs_count=10&theme=tokyonight&layout=compact)
-
-<br /><br />
